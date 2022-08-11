@@ -13,12 +13,15 @@ It's not a real flutter project per say, no fancy state management, testing or
 
 - Spiral: we use a cos and sin than both are multiplied by a counter to expanding the circle constantly, the gradual incrementation of the counter make the "circle" grow slowly at each iteration, but each circle never completes because it grows again before that. Thus we obtain a spiral.
 
+## To-Do
+
+
+- [ ] Custom images picker
+- [ ] Make it snow
+  
 ## Assets attributions
 
 - Pink flower: <a href='https://www.freepik.com/vectors/flower-collection'>Flower collection vector created by pikisuperstar - www.freepik.com</a>
 - Snowflake: <a href="https://www.vecteezy.com/free-vector/snowflake">Snowflake Vectors by Vecteezy</a>
 - Petals: <a href="https://www.vecteezy.com/free-vector/petals">Petals Vectors by Vecteezy</a>
 
-
-- [ ] Custom images picker
-- [ ] Make it snow

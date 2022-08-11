@@ -1,6 +1,6 @@
-This is a repo I created just for playing with animation and implying math equations, which was quite fun.
+This is a repo I created just for playing with animations and implying math equations, which was quite fun.
 
-It's not a real flutter project per say, no fancy state management, testing or 
+It's not a real flutter project per say, no fancy state management or testing. 
 
 ## Available patterns
 
@@ -16,7 +16,7 @@ It's not a real flutter project per say, no fancy state management, testing or
 ## To-Do
 
 
-- [ ] Custom images picker
+- [ ] Custom image picker
 - [ ] Make it snow
   
 ## Assets attributions
